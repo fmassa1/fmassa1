@@ -9,7 +9,7 @@
 </div>
 
 
-- 📫 How to reach me **fmass3@uic.edu**
+- 📫 How to reach me **fredric.massa@gmail.com**
 
 - ⚡ Fun fact **I love the Dune series**
 
