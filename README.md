@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ricky Massa</h1>
-<h3 align="center">A passionate computer science student at the University of Illinois in Chicago</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmassa1&label=Profile%20views&color=0e75b6&style=flat" alt="fmassa1" /> </p>
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **fredric.massa@gmail.com**
 
-- ⚡ Fun fact **I love the Dune series**
+- ⚡ Fun fact **I love the Dune series and am currently reading the Malazan series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
